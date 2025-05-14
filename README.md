@@ -23,9 +23,8 @@ Guia completo para construir um **Tsuru (鶴)** — a garça do origami japonês
 3. Dobre ao meio unindo pontas opostas. Marque bem.
 4. Inverta a posição do triângulo: base para cima, bico para baixo.
 5. Una as laterais da base, formando um triângulo menor.
-
-
 ---
+
 ### 🔸 Etapa 3: Formação do losango
 6. Levante o bico superior.
 7. Separe as laterais do bico e una-o ao bico inferior. Marque bem.
@@ -66,4 +65,3 @@ Guia completo para construir um **Tsuru (鶴)** — a garça do origami japonês
 30. Abra as asas puxando os bicos centrais para os lados.
 
 🎉 **Parabéns! Seu Tsuru está pronto.**
-
