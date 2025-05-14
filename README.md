@@ -4,12 +4,6 @@ Guia completo para construir um **Tsuru (鶴)** — a garça do origami japonês
 
 ---
 
-## 📷 Prévia do Resultado
-
-![tsuru-finalizado]()
-
----
-
 ## 📐 Pré-requisitos
 
 - 1 folha de papel dupla face (15cm x 15cm)
@@ -25,27 +19,13 @@ Guia completo para construir um **Tsuru (鶴)** — a garça do origami japonês
 1. Corte um quadrado de 15 cm no papel dupla face da cor de sua preferência.
 2. Vire-o com o lado sem cor para cima e posicione na diagonal (losango).
 
-![preparacao](images/etapa1.jpg)
-
 ### 🔹 Etapa 2: Dobras Iniciais
 3. Dobre ao meio unindo pontas opostas. Marque bem.
 4. Inverta a posição do triângulo: base para cima, bico para baixo.
 5. Una as laterais da base, formando um triângulo menor.
 
-![dobras-iniciais](images/etapa2.jpg)
-
-### 🔹 Etapa 3 até 9: [Ver instruções completas](#🚀-instruções-de-montagem)
-
-*(Adicione mais imagens conforme desejar, usando o padrão `![descrição](images/nome-do-arquivo.jpg)`)*
 
 ---
-
-## 🚀 Instruções de Montagem (completas)
-
-> Clique para expandir a explicação passo a passo:
-<details>
-  <summary>Ver todas as etapas detalhadas</summary>
-
 ### 🔸 Etapa 3: Formação do losango
 6. Levante o bico superior.
 7. Separe as laterais do bico e una-o ao bico inferior. Marque bem.
@@ -86,10 +66,4 @@ Guia completo para construir um **Tsuru (鶴)** — a garça do origami japonês
 30. Abra as asas puxando os bicos centrais para os lados.
 
 🎉 **Parabéns! Seu Tsuru está pronto.**
-
-</details>
-
----
-
-## 📁 Estrutura do Repositório
 
